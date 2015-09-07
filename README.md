@@ -8,8 +8,8 @@ An FAQ component which could be used as a support tool, utilizing Houston Admin 
 * **Collection Schemas:** [aldeed:collection2](https://github.com/aldeed/meteor-collection2)
 * **Admin Panel Tool:** [houston:admin](https://github.com/gterrono/houston)
 
-## Notes
-* 
+## Deployment
+* Resources: [Copyright in General](http://copyright.gov/help/faq/faq-general.html#what)
 
 ## Structure
 ```
