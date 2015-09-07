@@ -19,6 +19,7 @@ MeteorFAQComponent/
 │   ├── common.js
 │   ├── templates/
 │   │   ├── head.html
+│   │   ├── navbar.html
 │   │   ├── layout.html
 │   │   └── questions/
 │   │       ├── questions.html
