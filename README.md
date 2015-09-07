@@ -11,3 +11,23 @@ An FAQ component which could be used as a support tool, utilizing Houston Admin 
 * 
 
 ## Structure
+```
+MeteorFAQComponent/
+├── server/
+│   └── common.js
+├── client/
+│   ├── common.js
+│   ├── templates/
+│   │   ├── head.html
+│   │   ├── layout.html
+│   │   └── questions/
+│   │       ├── questions.html
+│   │       └── questions.js
+│   └── stylesheets/
+│       └── faq.css
+├── lib/
+│   ├── collections.js
+│   └── router.js
+└── public/
+    └── img/
+```
