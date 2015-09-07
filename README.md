@@ -5,7 +5,8 @@ An FAQ component which could be used as a support tool, utilizing Houston Admin 
 
 * **Front-end framework:** [ewall:foundation] (https://atmospherejs.com/ewall/foundation)
 * **Routing:** [iron:router](https://github.com/iron-meteor/iron-router)
-* **Adding a Schema to a Collection:** [aldeed:collection2](https://github.com/aldeed/meteor-collection2)
+* **Collection Schemas:** [aldeed:collection2](https://github.com/aldeed/meteor-collection2)
+* **Admin Panel Tool:** [houston:admin](https://github.com/gterrono/houston)
 
 ## Notes
 * 
